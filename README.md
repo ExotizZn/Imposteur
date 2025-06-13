@@ -3,7 +3,7 @@ Jeu multijoueur où un imposteur doit se cacher parmi les autres joueurs qui par
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
-![Screenshot of splash screen](https://github.com/ExotizZn/Imposteur/blob/main/img/Screenshot%202025-06-11%20202539.png?raw=true)
+![Screenshot of splash screen](https://github.com/ExotizZn/Imposteur/blob/main/img/screenshot.png?raw=true)
 
 ## Pour commencer
 ### Prérequis
